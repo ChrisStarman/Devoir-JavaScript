@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+}
+
+#carte {
+	width: 60%;
+	height: 400px;
+	margin: auto;
+	margin-top: 5em;
+	padding-top: 5em;
+	border: 2px solid blue;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#cache {
+	visibility: hidden;
+}
+
+button {
+	background-color: white;
+	font-size: 2em;
+	color: blue;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	border: 1px solid blue;
+	width: 60%;
+	margin: auto;
+	margin-bottom: 2em;
+	background-color: yellow;
+	font-size: 2em;
+	color: blue;
+}
